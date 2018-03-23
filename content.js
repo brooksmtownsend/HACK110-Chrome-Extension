@@ -27,7 +27,7 @@ for (var i = 0; i < elements.length; i++) {
             // var replacedText = text.replace(/\w+/gi, (s) => {
             //    let reversedString = "";
             //    for (let i = s.length - 1; i >= 0; i--) {
-            //        newString += s[i];
+            //        reversedString += s[i];
             //    }
             //    return reversedString;
             // });
