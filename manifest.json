@@ -1,8 +1,11 @@
 {
 "manifest_version": 2,
-    "name": "[your extension name here]",
-    "description": "[your extension description here]",
+    "name": "HACK 110 Text Replacement Extension",
+    "description": "We can replace any text on a webpage with better text!",
     "version": "1.0",
+    "icons": {
+      "74": "icon.png"
+    },
     "content_scripts": [
         {
             "matches": [
